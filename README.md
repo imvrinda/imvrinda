@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @imvrinda
+- 👋 Hi, I’m Vrinda Vyas @imvrinda
 - 👀 I’m interested in Full Stack Web Development 
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on Web Dev Projects
