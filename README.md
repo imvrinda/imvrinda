@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Web Development 
 - 🌱 I’m currently learning MERN & MEAN Stack
 - 💞️ I’m looking to collaborate on Web Dev Projects
-- 📫 How to reach me - vrindavyas10@gmail.com
+- 📫 How to reach me - vrindavyas.work@gmail.com
 
 <!---
 imvrinda/imvrinda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
