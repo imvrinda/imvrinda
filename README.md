@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vrinda Vyas
 - 👀 I’m interested in Full Stack Web Development 
-- 🌱 I’m currently learning MERN & MEAN Stack
+- 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on Web Dev Projects
 - 📫 How to reach me - vrindavyas.work@gmail.com
 
